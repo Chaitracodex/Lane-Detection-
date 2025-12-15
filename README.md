@@ -60,7 +60,8 @@ Execute the training script, which:
 python train.py
 ```
 
-# Team Project – Lane Detection System
+
+Team Project – Lane Detection System
 
 This repository is a fork of the original team project.
 My contribution includes model implementation, training, and evaluation.
